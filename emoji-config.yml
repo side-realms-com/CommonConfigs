@@ -30,7 +30,7 @@ emojis:
   '㏻': [':sleep:', 'zzz']
   '㏼': [':tearsmile:']
   '㏽': [':straightface:']
-  '㏾': [':think:', 'thinking', 'hmm']
+  '㏾': [':think:', ':thinking:', ':hmm:']
   '㐀': [':tongue:', ':p']
   '㐁': [':bonk:']
   '㐂': [':cursed:']
@@ -78,8 +78,7 @@ emoji-regex:
   '(:sleep:)|(\bzzz\b)': '㏻'
   '(:tearsmile:)': '㏼'
   '(:straightface:)': '㏽'
-  '(:think:)|(h+(\W|\d|_)*m+)': '㏾'
-  '(:thinking:)|(h+(\W|\d|_)*m+)': '㏾'
+  '(:think:)|(:thinking:)|(:hmm:)': '㏾'
   '(:tongue:)|(:p\b)': '㐀'
   '(:bonk:)': '㐁'
   '(:cursed:)': '㐂'
