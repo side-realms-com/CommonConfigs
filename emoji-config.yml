@@ -1,0 +1,97 @@
+emojis:
+  '㏠': [':cool:']
+  '㏢': [':xd:', 'xd']
+  '㏣': [':smile:', ':D', ':)', '(:']
+  '㏤': [':wink:', ';)']
+  '㏥': [':blush:']
+  '㏦': [':scream:', ':o']
+  '㏧': [':stareyes:', ':star:', 'lovely']
+  '㏨': [':shh:', 'shh']
+  '㏩': [':cry:', 'cry']
+  '㏪': [':heart:', 'heart', '<3']
+  '㏬': [':rage:', 'rage']
+  '㏭': [':thumbsup:', 'thumbsup']
+  '㏮': [':thumbsdown:', 'thumbsdown']
+  '㏯': [':brokenheart:']
+  '㏰': [':angel:']
+  '㏱': [':barf:', 'barf']
+  '㏲': [':dead:']
+  '㏳': [':embarassed:']
+  '㏴': [':cold:']
+  '㏵': [':frustrated:']
+  '㏶': [':gross:']
+  '㏷': [':mask:']
+  '㏸': [':nerd:']
+  '㏹': [':sherlock:']
+  '㏺': [':skull:']
+  '㏻': [':sleep:', 'zzz']
+  '㏼': [':tearsmile:']
+  '㏽': [':straightface:']
+  '㏾': [':think:', 'thinking', 'hmm']
+  '㐀': [':tongue:', ':p']
+  '㐁': [':bonk:']
+  '㐂': [':cursed:']
+  '㐃': [':doge:', 'doge']
+  '㐅': [':patric:']
+  '㐆': [':f:', 'f']
+  '㐇': [':gg:', 'gg']
+  '㐈': [':kek:', ':kekw:', 'kek', 'kekw']
+  '㐉': [':knifechick:']
+  '㐊': [':know:']
+  '㐋': [':knuckles:']
+  '㐌': [':mike:', 'mike']
+  '㐐': [':stonks:', 'stonks']
+  '㐍': [':notstonks:', 'notstonks']
+  '㐎': [':pepe:', 'pepe']
+  '㐏': [':uno:', ':reverse:']
+  '㐒': [':sus:', 'sus']
+  '㐑': [':susdead:']
+
+emoji-regex:
+  '(:xd:)|(\bxd\b)': '㏢'
+  '(:smile:)|(\:\))|(\(\:)|(:d\b)|(:D\b)': '㏣'
+  '(:wink:)|(\;\))': '㏤'
+  '(:blush:)': '㏥'
+  '(:scream:)|(:o\b)': '㏦'
+  '(:stareyes:)|(:star:)|(\blovely\b)': '㏧'
+  '(:shh:)|(\bshh\b)': '㏨'
+  '(:cry:)|(\bcry\b)': '㏩'
+  '(:heart:)|(\bheart\b)|(<3)': '㏪'
+  '(:rage:)|(\brage\b)': '㏬'
+  '(:thumbsup:)|(\bthumbsup\b)': '㏭'
+  '(:thumbsdown:)|(\bthumbsdown\b)': '㏮'
+  '(:brokenheart:)': '㏯'
+  '(:angel:)': '㏰'
+  '(:barf:)|(\bbarf\b)': '㏱'
+  '(:dead:)': '㏲'
+  '(:embarassed:)': '㏳'
+  '(:cold:)': '㏴'
+  '(:frustrated:)': '㏵'
+  '(:gross:)': '㏶'
+  '(:mask:)': '㏷'
+  '(:nerd:)': '㏸'
+  '(:sherlock:)': '㏹'
+  '(:skull:)': '㏺'
+  '(:sleep:)|(\bzzz\b)': '㏻'
+  '(:tearsmile:)': '㏼'
+  '(:straightface:)': '㏽'
+  '(:think:)|(h+(\W|\d|_)*m+)': '㏾'
+  '(:thinking:)|(h+(\W|\d|_)*m+)': '㏾'
+  '(:tongue:)|(:p\b)': '㐀'
+  '(:bonk:)': '㐁'
+  '(:cursed:)': '㐂'
+  '(:doge:)|(\bdoge\b)': '㐃'
+  '(:patric:)': '㐅'
+  '(:f:)|(\bf\b)': '㐆'
+  '(:gg:)|(\bgg\b)': '㐇'
+  '(:kek:)|(:kekw:)|(\bkekw\b)|(\bkek\b)': '㐈'
+  '(:knifechick:)': '㐉'
+  '(:know:)': '㐊'
+  '(:knuckles:)': '㐋'
+  '(:mike:)|(\bmike\b)': '㐌'
+  '(:stonks:)|(\bstonks\b)': '㐐'
+  '(:notstonks:)|(\bnotstonks\b)': '㐍'
+  '(:pepe:)|(\bpepe\b)': '㐎'
+  '(:uno:)|(:reverse:)': '㐏'
+  '(:sus:)|(\bsus\b)': '㐒'
+  '(:susdead:)': '㐑'
