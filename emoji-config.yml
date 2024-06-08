@@ -1,3 +1,6 @@
+# IMPORTANT: Do not edit this config directly - it is downloaded from GitHub 
+# on every startup so changes has to be made on GitHub only
+
 emojis:
   '㏠': [':cool:']
   '㏢': [':xd:', 'xd']
