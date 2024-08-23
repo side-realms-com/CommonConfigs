@@ -51,6 +51,7 @@ emojis:
   '㐑': [':susdead:']
 
 emoji-regex:
+  '(:cool:)|(\bcool\b)': '㏠'
   '(:xd:)|(\bxd\b)': '㏢'
   '(:smile:)|(\:\))|(\(\:)|(:d\b)|(:D\b)': '㏣'
   '(:wink:)|(\;\))': '㏤'
